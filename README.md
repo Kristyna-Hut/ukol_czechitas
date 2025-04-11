@@ -1,2 +1,1 @@
-# ukol_czechitas
-Homework - Python
+  Úkol - Python
